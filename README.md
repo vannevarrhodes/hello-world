@@ -9,7 +9,7 @@ What goes in often goes out
 Folks often think they are right
 Folks should often consider
                            they are wrong
-## Branching like a tree
+####### Branching like a tree
 How the tree knows where to grow a branch
 How the kid knows how to play
 How the man knows how to stand erect
